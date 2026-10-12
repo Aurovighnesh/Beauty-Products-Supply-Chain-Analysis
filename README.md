@@ -197,10 +197,9 @@ This analysis helps businesses:
 
 ## 👨‍💻 Author
 
-**Anmol Nayak**
+**Auro Vighnesh Dassh**
 
-- B.Tech Civil Engineering, NIT Rourkela
-- Minor in Computer Science
+- B.Tech Metallurgical and Materials Engineering, NIT Rourkela
 - Interested in Data Analytics, Machine Learning, and Supply Chain Analytics
 
 ---
